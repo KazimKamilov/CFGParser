@@ -10,7 +10,7 @@ Allows:
 	- File inclde is supported.
 	
 The syntax is simple:
-***
+ ***
 #include "path_of_the_file_to_include"
 
 [section_name]
@@ -20,4 +20,4 @@ key_vector = 53.74, 632.83, 146.013
 
 [section_name] : inherited_section_name
 key = value
-**
+ ***
