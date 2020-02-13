@@ -18,7 +18,7 @@ The syntax is simple:
 [section_name]
 key = value
 key_string = "some text"
-key_vector = 53.74, 632.83, 146.013**
+key_vector = 53.74, 632.83, 146.013
 
 [section_name] : inherited_section_name
 key = value
